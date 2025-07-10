@@ -55,3 +55,19 @@ body{
     padding: 10px 20px;
     position: relative;
 }
+.imgcnt{
+    margin: 116px 160px 116px 160px;
+    max-width: 1140px;
+    max-height: 328px;
+    display: flex;
+}
+.img1{
+    max-width: 403px;
+    max-height: 328px;
+   
+    border-radius: 30px;
+}
+.p-content{
+    font-size: 24px;
+    color: #252432;
+}
