@@ -11,7 +11,7 @@ body{
   
 }
 .navbar1{
-    background-image: url('/assign/Assets/Hero-bg.png');
+    background-image: url('../Assets/Hero-bg.png');
     background-repeat: no-repeat;
     overflow: auto;
     max-height: 698px;
